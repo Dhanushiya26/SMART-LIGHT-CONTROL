@@ -44,3 +44,4 @@ The Arduino listens for text input via serial.
 
 OUTPUT
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dadf3531-9ecf-4b5b-abb3-38ae3f07e21a" />
