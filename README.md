@@ -44,7 +44,7 @@ The Arduino listens for text input via serial.
 
 Simulation link
 
-
+https://www.tinkercad.com/things/gvbBOB6Sqf5-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=PSy1O6gFVnOeuTxoC_aRQ4kb6zAgVPH46jIXOhUhzfA
 
 OUTPUT
 
