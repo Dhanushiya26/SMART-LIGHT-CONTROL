@@ -48,3 +48,6 @@ https://www.tinkercad.com/things/gvbBOB6Sqf5-/editel?returnTo=https%3A%2F%2Fwww.
 
 OUTPUT
 
+[<img width="1366" height="639" alt="Image" src="https://github.com/user-attachments/assets/16a5d463-61d0-4ae4-b0a6-872b724e5ec9" />
+
+<img width="1366" height="638" alt="Image" src="https://github.com/user-attachments/assets/5dc2770f-4382-49c5-9eb0-b89782341374" />]
